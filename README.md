@@ -1,8 +1,8 @@
 
 # Projetos
-* LATA - Em finalização.
-* e-site - Em andamento.
+* LATA - Finalizado.
+* e-site - Finalizado.
 * Casa autônoma - Em andamento.
-* Robo Trakking - Em andamento.
-* Seguidor de Linha - Em andamento.
+* Robo Trakking - Finalizado.
+* Seguidor de Linha - Finalizado.
 * Rastreamento - Em andamento.
